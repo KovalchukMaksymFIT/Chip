@@ -347,7 +347,6 @@ background: url("../img/headphones.svg");
    height: 200px;
    margin-bottom: 64px;
    padding-top: 20px;
-   outline: none;
 }
 
 .input-name, .input-descr{
@@ -355,6 +354,7 @@ background: url("../img/headphones.svg");
     border: none;
     font-size: 22px;
     padding-left: 24px;
+    outline: none;
 }
 
 .send-review{
